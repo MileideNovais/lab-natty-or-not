@@ -1,7 +1,7 @@
 # Introdução Básica às Criptomoedas
 
 ## 📒 Descrição
- Criar um eBook  utilizados IAs com uma introdução acessível e completa sobre às criptomoedas para iniciantes, abordando os conceitos básicos.
+ Criacão de um eBook  utilizando IAs, com uma introdução acessível e completa sobre às criptomoedas para iniciantes, abordando os conceitos básicos.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e consulta do conteúdo;
