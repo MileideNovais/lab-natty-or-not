@@ -1,4 +1,4 @@
-# Introdução Básica às Criptomoedas ;)
+# Introdução Básica às Criptomoedas
 
 ## 📒 Descrição
  Criar um eBook  utilizados IAs com uma introdução acessível e completa sobre às criptomoedas para iniciantes, abordando os conceitos básicos.
@@ -19,5 +19,5 @@ Após o término  da produção do conteúdo,  criei as imagens com o Bingchat, 
 
 **[Introdução Básica às Criptomoedas ](https://infograph.venngage.com/pl/RV8ybSVitSY)**
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Primeira vez que criei um ebook em poucas horas, sem muito planejamento. Mostrando  que a IA pode auxiliar muito em um projeto bem elaborado.
